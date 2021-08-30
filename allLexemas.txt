@@ -1,0 +1,14 @@
+(* Palabras reservadas *)
+PROGRAM VAR PROCEDURE BEGIN END IF THEN ELSE FOR TO DO DOWNTO WHILE CASE OF REPEAT UNTIL
+READ READLN WRITE WRITELN 
+
+	//Símbolos y operadores
+, :  ; ( ) :=
+NOT ! AND & OR | + - *  MOD % DIV /
+
+	//NUM, ID y STRINGctte
+1234 id2 "String constante" 
+
+{OPREL y TIPO}
+< <= <> != > >= = 
+integer boolean

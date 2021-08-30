@@ -1,0 +1,28 @@
+program hola;
+
+procedure algo;
+begin
+	writeln("hkajd", 45*x - 1);
+
+	for i:=1 to n do
+	begin
+		write( i );
+	end;
+end;
+
+procedure todo;
+begin
+end;
+
+procedure todo;
+begin
+end;
+
+var
+	
+	a,e,s,d,g:boolean;
+	a,d,g,d:integer;
+
+begin // main
+
+end;
